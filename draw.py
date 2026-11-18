@@ -200,7 +200,7 @@ def main():
            width=2)
     d.text((margin, 982), "SOURCES",
            font=font(SANS_BOLD, 22), fill=RED)
-    d.text((margin + 118, 982),
+    d.text((margin + 140, 982),
            "AP  \u00b7  PAHO  \u00b7  UN Human Rights  \u00b7  Reuters  \u00b7  "
            "White House  \u00b7  IMD",
            font=font(SANS, 21), fill=GREY)
